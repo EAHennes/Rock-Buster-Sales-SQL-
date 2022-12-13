@@ -9,3 +9,7 @@ The data given included information:
 * Movie stats
 * Actor stats
 * Customer sales activity
+# Files
+* Dictionary;Dictionary and idex of data present in the project
+* Queries; SQL codes used in project
+* To client; PPP given to client on analysis findings
